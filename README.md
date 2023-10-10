@@ -6,4 +6,5 @@ Gunakan format berikut untuk data diri: <br>
 **\* Nama, [Lingkedln/GitHub/Website](Alamat URL).**
 
 Berikut ini, adalah daftar Volunter yang diterima: <br>
-* Ahmad Bayu, [@AhmadBayu1412](https://AhmadBayu1412.com).
+* Ahmad Bayu, [@AhmadBayu1412] (https://www.AhmadBayu1412.co.id/).
+* Achmad Syahrul, (https://www.linkedin.com/in/achmad-syahrul/).
